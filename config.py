@@ -1,7 +1,7 @@
 import os
 
-GEMINI_API_KEY = "AIzaSyCMOUAGsTO-bAgfASI-JrihDDrnTevckZs"
-TAVILY_API_KEY = "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"
+GEMINI_API_KEY = ""
+TAVILY_API_KEY = ""
 
 CERTIFICATIONS = {
     "AWS Cloud Practitioner": {
@@ -19,4 +19,5 @@ CERTIFICATIONS = {
             {"name": "Design Cost-Optimized Architectures"}
         ]
     }
+
 }
